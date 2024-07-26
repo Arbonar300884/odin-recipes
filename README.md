@@ -1,2 +1,5 @@
 # odin-recipes
-In this repository we practice basic html for the creation of a recipe without giving any kind of css styling.
+
+Create readme.md file
+
+Create a small html website that emulates a recipe book, without applying css styling.
