@@ -1,0 +1,14 @@
+body{
+    background-color: hsla(0, 100%, 85%, 1);  
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+h1, h2{
+    color: hsla(225, 100%, 65%, 1);
+    text-transform: capitalize;
+}
+
+li, p{
+    color: hsla(225, 100%, 65%, 1);
+    font-size: 0.85rem;
+}

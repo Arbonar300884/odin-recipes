@@ -1,0 +1,10 @@
+body{
+    background-color: hsla(225, 50%, 50%, 1);  
+    color: hsla(0, 0%, 100%, 0.8);
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+p, li, a{
+    color: hsla(0, 100%, 75%, 1);
+    font-size: 0.85rem;
+}
